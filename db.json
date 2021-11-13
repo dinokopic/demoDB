@@ -2,15 +2,18 @@
   "books": [
     {
       "id": 1,
-      "title": "The Lord of The Rings"
+      "title": "The Lord of The Rings",
+      "author": "J.R.R. Tolkien"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "author": "None"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Post 3",
+      "author": "None"
     }
   ]
 }
