@@ -1,8 +1,8 @@
 {
-  "books": [
+  "posts": [
     {
       "id": 1,
-      "title": "The Lord of The Rings"
+      "title": "Post 1"
     },
     {
       "id": 2,
