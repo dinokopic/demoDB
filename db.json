@@ -1,14 +1,14 @@
 {
-  "posts": [
+  "books": [
     {
       "id": 1,
-      "title": "Post 1",
-      "author": "Author 1"
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "author": "Author 2"
+      "title": "The Game of Thrones",
+      "author": "George R.R. Martin"
     },
     {
       "id": 3,
