@@ -2,7 +2,7 @@
   "books": [
     {
       "id": 1,
-      "title": "The Lord of The Rings"
+      "title": "The Lord of The Rings",
       "author": "J. R. R. Tolkien"
     }
   ]
